@@ -1,71 +1,70 @@
-<!-- 🌊 Анимированная шапка -->
+<!-- 💫 Шапка с волной -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=200&section=header&text=Kelni%20%7C%203D%20Artist&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Kelni%20%7C%203D%20Artist&fontSize=40&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
 
-<!-- 👋 Анимированное представление -->
+<!-- 🧠 Ввод с машинкой -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kelni!;3D+Generalist+%7C+Stylized+Assets+Creator;Game+Ready+Models+%7C+Blender+Wizard" alt="Typing SVG" />
-</p>
-
----
-
-<h2 align="center">🔗 Мои платформы</h2>
-
-<p align="center">
-  <a href="https://sketchfab.com/Kelni" target="_blank"><img src="https://img.shields.io/badge/Sketchfab-3D_Models-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white"/></a>
-  <a href="https://www.artstation.com/kelni1" target="_blank"><img src="https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"/></a>
-  <a href="https://discord.gg/kelni" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:Kelni1@proton.me"><img src="https://img.shields.io/badge/Email-Kelni1@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Creating+Stylized+3D+Art;Game+Ready+Assets+%7C+Fantasy+Worlds;From+Sketch+to+Sketchfab+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">🧰 Навыки</h2>
+## 🎨 Портфолио
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,godot,ps,ae,figma,python,csharp" height="45" />
+  <a href="https://sketchfab.com/Kelni">
+    <img src="https://img.shields.io/badge/Sketchfab-Portfolio-000000?style=for-the-badge&logo=sketchfab&logoColor=1CAAD9"/>
+  </a>
+  <a href="https://www.artstation.com/kelni1">
+    <img src="https://img.shields.io/badge/ArtStation-Portfolio-000000?style=for-the-badge&logo=artstation&logoColor=13AFF0"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Статистика</h2>
+## 🌐 Соцсети
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keln1&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
+  <a href="https://discord.gg/kelni">
+    <img src="https://img.shields.io/badge/Discord-Community-000000?style=for-the-badge&logo=discord&logoColor=7289DA"/>
+  </a>
+  <a href="mailto:Kelni1@proton.me">
+    <img src="https://img.shields.io/badge/Email-Kelni1@proton.me-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+</p>
+
+---
+
+## 💻 Техстек
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,unity,godot,figma,ps,ae,python,csharp&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keln1&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keln1&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keln1&layout=compact&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keln1&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keln1&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">🏆 Достижения</h2>
+## 🏆 GitHub Трофеи
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Keln1&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Keln1&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-<h2 align="center">🔥 Активность</h2>
-
+<!-- 🌌 Нижняя волна -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Keln1&theme=rogue&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 </p>
-
----
-
-<h2 align="center">🌀 Просмотры профиля</h2>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Keln1&icon=5&color=8E2DE2"/>
-</p>
-
-<!-- 🌊 Закрывающая анимированная волна -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=120&section=footer"/>
-</p>
-
-<!-- Создано вручную и с душой 💜 -->
