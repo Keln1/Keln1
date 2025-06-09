@@ -39,7 +39,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,godot,figma,ps,ae,python,csharp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender,unity,godot,ps&theme=dark" />
 </p>
 
 <p align="center">
